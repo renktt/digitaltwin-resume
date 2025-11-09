@@ -1,0 +1,10 @@
+{
+  "/page": "app/page.js",
+  "/resume/page": "app/resume/page.js",
+  "/lms/page": "app/lms/page.js",
+  "/api/resume/route": "app/api/resume/route.js",
+  "/projects/page": "app/projects/page.js",
+  "/api/lms/courses/route": "app/api/lms/courses/route.js",
+  "/api/projects/route": "app/api/projects/route.js",
+  "/contact/page": "app/contact/page.js"
+}
